@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#main {
+    background-color: #1F2937;
+    padding: 10px;
+
+}
+
+#hero {
+    background-color: #6943FF;
+    padding: 30px;
+
+}
+
+.group1, .group2, .group3 {
+    background-color: #273549;
+    color: #CCC1FF;
+    padding: 5px;
+    margin: 15px 5px;
+}
+
+.rectangle {
+    width: 120px;
+    height: 85px;
+    border: 1px solid #B295FF;
+    border-radius: 5px;
+    color: #FFFFFF;
+    background-color: #6943FF;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 25px;
+}
+
+.convert-btn {
+    color: #3D3D3D;
+    background-color: #FFFFFF;
+    font-size: 24px;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.warning {
+    color: red;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 25px;
+    text-shadow: 1px 1px black ;
+}
